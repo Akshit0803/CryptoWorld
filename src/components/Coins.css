@@ -39,6 +39,13 @@
     
 }
 
+.about a{
+    color: skyblue;
+    text-decoration: underline;
+}
+.about a:hover{
+    cursor: pointer;
+}
 img{
     height:40px;
     width: auto;
